@@ -1,4 +1,4 @@
-# todo-nest
+# nestjs base
 
 - Install docker and run compose file (`docker-compose up -d`)
 - Install node (should install via **nvm**)
